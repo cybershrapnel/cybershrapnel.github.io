@@ -4,6 +4,6 @@
   </head>
 
   <body>
-    <p><a href="http://www.mywebsite.com/">Redirect</a></p>
+    <p><a href="https://cybershrapnel.github.io/nanocheeze/">Redirect</a></p>
   </body>
 </html>
