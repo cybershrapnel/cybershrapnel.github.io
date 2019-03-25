@@ -1,6 +1,6 @@
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=https://cybershrapnel.github.io/nanocheeze/" />
+    <meta http-equiv="refresh" content="0; url=https://cybershrapnel.github.io/NanoCheeZe/" />
   </head>
 
   <body>
